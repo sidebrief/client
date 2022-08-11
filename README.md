@@ -1,49 +1,34 @@
-# SIDEBRIEF FRONT-END WEB DEVELOPMENT TOOLS
+### SIDEBRIEF FRONT-END WEB DEVELOPMENT TOOLS
 
-
-## ➢ User Interface — React
+➢ User Interface — React
 ✓ Overview
-
 ✓ Advantages of React JS
 
 ➢ State Management — Redux
-
 ✓ Overview
-
 ✓ Adoption Reasons
 
 ➢ Coding with Style — CSS Modules
-
 ✓ Overview
-
 ✓ SAAS
-
 o Adoption Reasons
-
 ✓ Tailwind CSS
-
 o Adoption Reasons
-
 ✓ Bootstrap
-
 o Adoption Reasons
 
 ➢ Package Management — NPM
-
 ✓ Overview
-
 ✓ Adoption Reasons
 
 ➢ Convention — BEM
-
 ✓ Overview
-
 ✓ Adoption Reasons
 
 ### User Interface — React
 
 If any JavaScript project has taken the front-end ecosystem by storm in recent years, that would be
-React. 
+React.
 React is a library built and open-sourced by the smart people at Facebook. In React,
 developers write components for their web interface and compose them together.
 Advantages of React JS
@@ -58,12 +43,10 @@ Advantages of React JS
 
 ✓ It is backed by a strong community.
 
-
-
 ### State Management — Redux
 
 Redux is a popularly known open-source JavaScript library that facilitates state management in
-applications. 
+applications.
 We concluded to use this library for state management due to the following:
 
 ✓ It increases the Predictability of a State.
@@ -80,8 +63,6 @@ We concluded to use this library for state management due to the following:
 
 ✓ It provides Ease of Testing.
 
-
-
 ### Coding with Style — CSS Modules
 
 CSS (Cascading Style Sheets) are rules to describe how the HTML elements look. We concluded to
@@ -95,10 +76,7 @@ use SASS (preprocessor), Tailwind CSS (framework), and Bootstrap(framework)
 
 ✓ it is compatible with all versions of CSS, so we can use any available CSS libraries.
 
-✓ it allows nesting, so we can use nested syntax and useful functions like color manipulation,
-math
-
-✓ functions, and other values.
+✓ it allows nesting, so we can use nested syntax and useful functions like color manipulation, math functions, and other values.
 
 ➢ TAILWIND - We also consider using this library for styling due to the following:
 
@@ -109,8 +87,8 @@ math
 ✓ No more media queries
 
 ✓ We don’t have to create separate media query files to make our component responsive.
-Tailwind by default provides 5 different breakpoints.
 
+✓ Tailwind by default provides 5 different breakpoints.
 
 ➢ BOOTSTRAP - is an open-source framework made by twitter. We considered adopting Bootstrap
 for the following reasons:
@@ -120,7 +98,6 @@ looks like on different browsers because the framework already takes care of tha
 
 ✓ It saves a lot of time. Bootstrap is all about making designs responsive without media
 queries.
-
 
 ### Package Management — NPM
 
@@ -134,7 +111,6 @@ that connects projects with dependencies. We concluded its preference due to the
 ✓ Stability.
 
 ✓ It's super-fast and has more packages than other competitors.
-
 
 ### Convention — BEM
 
